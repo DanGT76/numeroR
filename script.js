@@ -38,5 +38,4 @@ chute.addEventListener("click", () => {
   
   inputPalpite.value = "";
   inputPalpite.focus();
-  
 });
